@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomdan-ai/unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomdan-ai/unit-testing/issues"
+  },
+  "homepage": "https://github.com/tomdan-ai/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
